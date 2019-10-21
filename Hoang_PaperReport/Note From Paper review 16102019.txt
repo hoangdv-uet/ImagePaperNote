@@ -1,0 +1,26 @@
+Note From Paper review 16102019
+	Define architecture clearly
+	Nộp paper trc để cô đọc,
+	F1 score có ý nghĩa gì?
+	hỏi cặn kẽ các keyword trong bài
+	tại kích thước có hình nhỏ, có hình lớn hơn
+	Cần phải có những thứ academic
+	các trick phải được nêu ra rõ ràng ng ta làm gì 
+	"Hầu hết các kĩ thuật cần thiết hết đền không được nói kĩ trong bài nên k ai hiểu được"
+	Các architecture khác nhau như thế nào, các ng ta xử lý data ntn
+	"việc lưu lại các map trong vấn đề pooling trong code?"
+	có cần lấy output từ FCN rồi retrain?
+	+tên tác giả trong bài
+	không cân quá nhiều chữ
+	Tập trung vào phân tích code của báo, k nên tập trung vào paper
+	
+
+
+
+Review
+	Intro Data, problem
+	=> Traditional approach
+	=> Show the network group choosed(basic)
+		+ limitation of Networks
+	=> conclusion
+	
